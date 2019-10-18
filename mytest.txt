@@ -1,2 +1,0 @@
-123456
-https://github.com/magn123/hello-world.git
